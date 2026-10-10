@@ -1,0 +1,26 @@
+Engineering Code Review Guidelines
+
+1. Pull Request Size
+Pull requests should be kept small and focused, ideally under 400 lines of changed code,
+to make thorough review feasible. Large refactors should be broken into a series of
+smaller, incremental PRs where possible.
+
+2. Review Turnaround
+Reviewers are expected to provide initial feedback on a pull request within 1 business day.
+If a reviewer cannot review within that window, they should reassign the PR or notify the
+author so review isn't blocked.
+
+3. Required Approvals
+All pull requests require at least one approval before merging. Changes to critical
+systems (payments, authentication, data pipelines) require two approvals, including one
+from a senior engineer or the relevant code owner.
+
+4. What Reviewers Check
+Reviewers should check for correctness, test coverage, adherence to style guidelines,
+security implications, and whether the change is adequately documented. Nitpick comments
+should be clearly labeled as optional ("nit:") to avoid blocking merges unnecessarily.
+
+5. Merge Requirements
+All CI checks (tests, linting, build) must pass before a pull request can be merged. Merges
+to the main branch outside business hours require on-call engineer sign-off to reduce
+deployment risk.

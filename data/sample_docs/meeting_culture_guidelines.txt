@@ -1,0 +1,25 @@
+Meeting Culture Guidelines
+
+1. Default Meeting Length
+Meetings should default to 25 or 50 minutes instead of 30 or 60, to leave buffer time
+between back-to-back meetings. Calendar settings company-wide are configured with this
+default.
+
+2. Agenda Requirement
+Any meeting with more than 3 attendees requires a written agenda shared at least 24 hours
+in advance. Meetings without a clear agenda or objective may be declined by invitees.
+
+3. No-Meeting Blocks
+Wednesday afternoons (1 PM - 5 PM) are designated as company-wide no-meeting time to
+allow for focused, uninterrupted work. Exceptions are limited to urgent, time-sensitive
+issues.
+
+4. Meeting Size
+Decision-making meetings should include no more than 8 participants where possible.
+Larger informational meetings are acceptable but should be structured as a presentation
+with a dedicated Q&A segment rather than open discussion.
+
+5. Notes and Follow-up
+Every meeting should have a designated note-taker who shares a summary with action items
+and owners within 24 hours. Recurring meetings without documented follow-up actions for
+3 consecutive sessions should be reevaluated for necessity.

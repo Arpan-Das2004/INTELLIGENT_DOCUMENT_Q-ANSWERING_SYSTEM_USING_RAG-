@@ -1,0 +1,29 @@
+IT Security Guidelines
+
+1. Password Policy
+All employees must use passwords that are at least 12 characters long, containing a mix of
+uppercase letters, lowercase letters, numbers, and special characters. Passwords must be
+changed every 90 days and cannot be reused from the last 5 passwords.
+
+2. Two-Factor Authentication
+Two-factor authentication (2FA) is mandatory for all accounts accessing company systems,
+including email, VPN, and internal tools. Employees must enroll in 2FA within 48 hours of
+receiving system access.
+
+3. Device Usage
+Only company-approved devices may be used to access internal systems. Personal devices
+must be enrolled in the Mobile Device Management (MDM) system before accessing company
+email or files. Lost or stolen devices must be reported to IT Security within 1 hour of
+discovery.
+
+4. Data Handling
+Confidential company data must not be stored on personal cloud storage services such as
+personal Google Drive or Dropbox accounts. All confidential files must be stored only in
+approved company systems. Data classified as "Restricted" requires encryption both at rest
+and in transit.
+
+5. Incident Reporting
+Any suspected security incident, including phishing emails or unauthorized access attempts,
+must be reported to the IT Security team immediately via the internal incident portal or by
+emailing security@company.com. Response time for critical incidents is within 30 minutes
+during business hours.

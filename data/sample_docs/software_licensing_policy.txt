@@ -1,0 +1,26 @@
+Software Licensing Policy
+
+1. Approved Software List
+Employees may only install software that appears on the company's approved software
+catalog, maintained by IT. Requests for new tools must be submitted through the IT portal
+and reviewed for security, licensing cost, and data handling implications.
+
+2. License Tracking
+All paid software licenses are tracked centrally by IT to avoid duplicate purchases and
+ensure compliance with per-seat licensing terms. Department heads receive a quarterly
+report of active licenses and utilization for their team.
+
+3. Open Source Usage
+Use of open source libraries in company products must comply with the company's approved
+license list (MIT, Apache 2.0, BSD are generally pre-approved). Libraries under GPL or
+other copyleft licenses require Legal review before use in shipped products.
+
+4. Unused License Reclamation
+Software licenses unused for 60 consecutive days are automatically flagged for reclamation
+and reassignment to another employee, to control software spend. Employees are notified
+before a license is reclaimed.
+
+5. Personal Use Restriction
+Company-purchased software licenses are for business use only and must not be used for
+personal projects or shared with individuals outside the company, in line with vendor
+licensing terms.

@@ -1,0 +1,27 @@
+Marketing Brand Guidelines
+
+1. Logo Usage
+The primary logo must always be used on a white or light background with a minimum
+clear-space margin equal to the height of the logomark. The logo should never be
+stretched, recolored outside the approved palette, or placed on busy background images.
+
+2. Color Palette
+The primary brand color is Deep Indigo (#2C2A4A). Secondary colors are Coral (#FF6B6B) and
+Soft Teal (#4ECDC4), used for accents and calls-to-action. Text should default to Charcoal
+(#2D2D2D) on light backgrounds for accessibility compliance.
+
+3. Typography
+Headlines use the "Satoshi" typeface in Bold or Medium weight. Body copy uses "Inter"
+Regular at a minimum of 16px for web content to meet accessibility guidelines. Avoid using
+more than two typefaces in a single piece of marketing material.
+
+4. Tone of Voice
+Brand communications should be clear, confident, and approachable — avoiding corporate
+jargon and overly technical language unless writing for a developer audience. Humor is
+welcome in social media content but should be avoided in compliance or legal
+communications.
+
+5. Asset Approval
+All external-facing marketing materials (ads, landing pages, press materials) must be
+reviewed and approved by the Brand team before publication. Internal presentation
+templates are exempt from this review requirement.

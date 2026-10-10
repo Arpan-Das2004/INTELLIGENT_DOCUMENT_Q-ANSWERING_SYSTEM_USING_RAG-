@@ -1,0 +1,27 @@
+Remote Work Policy
+
+1. Eligibility
+Remote work arrangements are available to employees whose roles do not require regular
+on-site presence, subject to manager approval. Eligibility is reviewed annually or upon
+role change.
+
+2. Hybrid Schedule
+Employees on a hybrid schedule are expected to be in the office at least 2 days per week,
+typically Tuesday and Thursday, to support team collaboration. Core collaboration hours
+are 10 AM to 4 PM local time, during which employees should be reachable regardless of
+location.
+
+3. Fully Remote Employees
+Fully remote employees must reside in a state or country where the company is legally
+registered to employ workers. A one-time home office setup stipend of $500 is provided,
+along with a monthly $50 internet/utilities allowance.
+
+4. Equipment and Security
+Remote employees must use company-issued laptops with full-disk encryption and connect
+to internal systems only via the company VPN. Public Wi-Fi networks should not be used to
+access confidential company data without VPN protection.
+
+5. Performance Expectations
+Remote work arrangements do not change performance expectations. Managers may request a
+return to in-office work if performance or collaboration issues arise that cannot be
+resolved remotely.

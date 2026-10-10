@@ -1,0 +1,26 @@
+Data Privacy Policy
+
+1. Data Classification
+Company data is classified into three tiers: Public, Internal, and Restricted. Restricted
+data includes customer personal information, financial records, and employee PII, and
+requires the highest level of access control and encryption.
+
+2. Access Control
+Access to Restricted data is granted on a need-to-know basis and must be approved by the
+relevant data owner. Access is reviewed quarterly, and unused access is automatically
+revoked after 90 days of inactivity.
+
+3. Customer Data Handling
+Customer personal data must never be exported to personal devices or non-approved third
+party tools. Any data processing agreement with a vendor must be reviewed by Legal before
+customer data can be shared externally.
+
+4. Data Retention
+Customer data is retained only as long as necessary to provide the service or as required
+by law, typically no more than 7 years after account closure. Automated deletion jobs run
+quarterly to purge expired records.
+
+5. Breach Notification
+Any suspected data breach must be reported to the Data Protection Officer within 1 hour
+of discovery. Depending on severity and jurisdiction, affected customers and regulators
+may need to be notified within 72 hours, in line with applicable privacy law.

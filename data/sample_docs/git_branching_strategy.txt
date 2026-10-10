@@ -1,0 +1,26 @@
+Git Branching Strategy
+
+1. Branch Types
+The repository uses three main branch types: `main` (production-ready code), `develop`
+(integration branch for upcoming releases), and short-lived `feature/*` branches for
+individual work. Hotfix branches use the `hotfix/*` prefix and branch directly from `main`.
+
+2. Naming Convention
+Feature branches should be named using the pattern `feature/TICKET-ID-short-description`,
+e.g. `feature/ENG-482-add-rate-limiting`. This keeps branches traceable back to their
+corresponding ticket in the project tracker.
+
+3. Merge Strategy
+Feature branches are merged into `develop` via squash-and-merge to keep history clean.
+Releases are merged from `develop` into `main` via a merge commit to preserve the full
+release history.
+
+4. Release Tagging
+Every merge into `main` is tagged with a semantic version number (e.g., v2.4.1) following
+semantic versioning conventions: major.minor.patch. Release notes are auto-generated from
+commit messages and PR titles.
+
+5. Branch Cleanup
+Feature branches should be deleted immediately after merging. Stale branches with no
+activity for 30+ days are automatically flagged and deleted by a scheduled cleanup job,
+after a warning notification to the branch owner.

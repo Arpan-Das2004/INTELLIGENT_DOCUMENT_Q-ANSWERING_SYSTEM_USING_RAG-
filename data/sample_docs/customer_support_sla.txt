@@ -1,0 +1,25 @@
+Customer Support SLA
+
+1. Response Time Targets
+Priority 1 (system down) tickets receive a first response within 1 hour, 24/7. Priority 2
+(major functionality impaired) tickets receive a first response within 4 business hours.
+Priority 3 (minor issue, question) tickets receive a first response within 1 business day.
+
+2. Resolution Time Targets
+Priority 1 issues target resolution within 8 hours. Priority 2 issues target resolution
+within 3 business days. Priority 3 issues target resolution within 5 business days,
+though complex issues may require a documented extension with customer notification.
+
+3. Escalation Path
+Tickets unresolved within 150% of their target resolution time are automatically escalated
+to a team lead. Enterprise customers have a dedicated escalation contact who can be
+reached directly for Priority 1 issues.
+
+4. Support Channels
+Support is available via email, in-app chat, and phone (Enterprise plan only). Phone
+support operates Monday-Friday, 8 AM - 8 PM customer local time. Email and chat support
+operate 24/7 for Priority 1 issues.
+
+5. Customer Satisfaction
+Every resolved ticket triggers a CSAT survey. The support team targets a CSAT score of
+90% or higher, reviewed monthly, with coaching provided for agents below target.

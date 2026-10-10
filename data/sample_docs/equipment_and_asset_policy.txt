@@ -1,0 +1,26 @@
+IT Equipment and Asset Policy
+
+1. Equipment Issuance
+New employees are issued a standard laptop, monitor, keyboard, and mouse upon joining.
+Additional equipment requests (e.g., a second monitor, ergonomic chair) require manager
+approval and are fulfilled through the IT asset request portal.
+
+2. Equipment Care
+Employees are responsible for the reasonable care of all company-issued equipment.
+Accidental damage is generally covered, but repeated loss or damage due to negligence may
+result in the cost being deducted from reimbursement allowances.
+
+3. Software Installation
+Only software approved on the internal software catalog may be installed on company
+devices. Requests for new software must go through IT Security review before installation,
+particularly for tools that access or store company data.
+
+4. Asset Return
+All company-issued equipment must be returned to IT within 5 business days of an
+employee's last working day. Unreturned equipment will be invoiced to the employee at
+replacement cost.
+
+5. Lost or Stolen Equipment
+Lost or stolen equipment must be reported to IT Security immediately, and to local law
+enforcement if theft is suspected. Devices are remotely wiped as soon as a loss is
+reported to protect company data.

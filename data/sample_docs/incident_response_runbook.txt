@@ -1,0 +1,26 @@
+Incident Response Runbook
+
+1. Severity Levels
+Incidents are classified as SEV1 (full outage, critical data loss), SEV2 (major feature
+broken, significant customer impact), or SEV3 (minor issue, limited impact). Severity
+determines response time and escalation path.
+
+2. Response Times
+SEV1 incidents require acknowledgment within 5 minutes and an incident commander assigned
+within 10 minutes. SEV2 incidents require acknowledgment within 30 minutes. SEV3 incidents
+are addressed during normal business hours.
+
+3. Incident Commander Role
+The Incident Commander (IC) coordinates the response, makes key decisions, and is the
+single point of communication to stakeholders during an incident. The IC does not
+necessarily perform the technical fix themselves.
+
+4. Communication
+A status update must be posted to the incident channel every 30 minutes during an active
+SEV1 or SEV2 incident, even if there is no new information, to keep stakeholders informed.
+Customer-facing status page updates are the responsibility of the IC or their delegate.
+
+5. Postmortems
+Every SEV1 and SEV2 incident requires a blameless postmortem document within 5 business
+days of resolution, covering root cause, timeline, impact, and concrete action items with
+owners and due dates.
