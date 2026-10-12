@@ -34,8 +34,7 @@ rag_project/
 pip install -r requirements.txt
 ```
 
-To use Step 6 (answer generation) and Step 7 (evaluation), set your
-Anthropic API key:
+To use Step 6 (answer generation) and Step 7 (evaluation), set your Groq API key (free to create at https://console.groq.com):
 
 ```bash
 export GROQ_API_KEY="your-key-here"
